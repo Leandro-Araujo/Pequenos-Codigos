@@ -8,7 +8,7 @@ def organizaLetras(N, P):
 
     resultado = numeroResult(N,P)
     if(resultado <= 6):
-        return "Google"
+        return "Poogle"
     elif(resultado >= 20):
         return "Poooooooooooooooodle"
     else:
