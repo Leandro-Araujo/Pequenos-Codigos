@@ -1,2 +1,2 @@
-Buscador
+Pequenos códigos
 ================
